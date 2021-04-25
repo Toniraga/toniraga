@@ -41,5 +41,6 @@
 <br />
 
 <details>
-  [![Toniraga's github stats](https://github-readme-stats.vercel.app/api?username=toniraga)](https://github.com/toniraga/github-readme-stats)
+  <summary>:zap: Toniraga's GitHub Stats</summary>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toniraga)](https://github.com/anuraghazra/github-readme-stats)
 </details>
