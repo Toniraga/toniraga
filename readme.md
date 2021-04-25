@@ -42,5 +42,6 @@
 
 <details>
   <summary>:zap: Toniraga's GitHub Stats</summary>
-  <img align="left" alt="Toniraga's GitHub Stats" src="https://github-readme-stats.toniraga.vercel.app/api?username=toniraga&show_icons=true&hide_border=true" />
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=toniraga&count_private=true&theme=tokyonight&showicons=true)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toniraga&langs_count=5&theme=tokyonight)]()
 </details>
