@@ -33,7 +33,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://toniraga.herokuapp.com)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://toniraga.herokuapp.com)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">](https://toniraga.herokuapp.com)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/typescript_logo_icon_144782.png">](https://toniraga.herokuapp.com)
+[<img align="left" alt="GitHub" width="26px" src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png">](https://toniraga.herokuapp.com)
 [<img align="left" alt="GitHub" width="26px" src="https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png">](https://toniraga.herokuapp.com)
 [<img align="left" alt="GitHub" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--pvrcwKD5--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/x31w2x9njuj19e9xb00t.png">](https://toniraga.herokuapp.com)
 
