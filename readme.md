@@ -6,7 +6,7 @@
 ## I'm a Developer, and Tutor somewhat!
 
 - 🔭 I'm a great Developer. Take my word for it!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working on something super secret🤐
 - 👯 I’m looking to connected with brilliant people tho.
 - 🥅 2021 Goals: Contribute more to Open Source projects and get a better paying Job.
 - ⚡ Fun fact: I love playing basketball, Also I'd whoop any of your friends at FIFA.🤣
