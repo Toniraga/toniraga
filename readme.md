@@ -40,8 +40,12 @@
 <br />
 <br />
 
+<details>
+⚡⚡⚡⚡⚡
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=toniraga&count_private=true&theme=tokyonight&showicons=true)]()
 
-<details>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toniraga&langs_count=5&theme=tokyonight)]()
 </details>
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toniraga&langs_count=5&theme=tokyonight)]()
+
