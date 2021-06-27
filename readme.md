@@ -5,7 +5,7 @@
 
 ## I'm a Fullstack Developer!
 
-- 🔭 I'm a great Developer. Take my word for it!
+- 🔭 I'm a great Developer. Just take my word for it!
 - 🌱 I’m currently working on something super secret🤐
 - 👯 I’m looking to connected with brilliant people tho.
 - 🥅 2021 Goals: Contribute more to Open Source projects and get a better paying Job.
